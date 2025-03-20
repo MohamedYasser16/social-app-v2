@@ -259,7 +259,7 @@ export default function Favpost() {
                         localStorage.removeItem("favPost")
                         setArrToDis([])
                     }
-                } className=" w-[90%] mx-auto my-5 bg-red-500 hover:bg-red-600 duration-200 text-white font-semibold px-3 py-2 rounded-md">clear Favorite </button>
+                } className=" w-[90%] mx-auto my-5 bg-red-500 hover:bg-red-600 duration-200 text-white font-semibold px-3 py-2 rounded-md">Clear Favorite </button>
                     :
                     ""
             }
